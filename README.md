@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <h2>Conhecimento em:</h2>
+  <h2>Conhecimentos em:</h2>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
