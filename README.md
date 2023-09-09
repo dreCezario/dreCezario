@@ -30,7 +30,7 @@
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
     </div>
-</div>
+  </div><br><br>
 </div>
 
   [![](https://raw.githubusercontent.com/dreCezario/dreCezario/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dreCezario/dreCezario/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
